@@ -5,7 +5,7 @@
 <html>
     <head>
 
-        <title>My Photo Album</title>
+        <title>My Photo Album 2</title>
         
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700%7CLora:400,700italic" rel="stylesheet" type="text/css">
