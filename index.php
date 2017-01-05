@@ -5,7 +5,7 @@
 <html>
     <head>
 
-        <title>My Photo Album 2</title>
+        <title>About Me</title>
         
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700%7CLora:400,700italic" rel="stylesheet" type="text/css">
@@ -20,7 +20,7 @@
         <header>
             <div class="container">
                 <h1>Deloitte Digital</h1>
-                <h2>My Photo Album</h2>
+                <h2>About Me</h2>
             </div>
         </header>
 
