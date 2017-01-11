@@ -9,7 +9,8 @@
         
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700%7CLora:400,700italic" rel="stylesheet" type="text/css">
-        
+        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
         <!-- CSS Includes -->
         <link href="css/main.css" rel="stylesheet" type="text/css">
 
@@ -37,7 +38,10 @@
             </main>
 
             <aside>
-                <h3>Photo Album Details</h3>
+                <h3>LinkedIn Details</h3>
+                <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="zalaks">
+                    <a class="LI-simple-link" href='https://www.linkedin.com/in/zalaks?trk=profile-badge'>Zalak Solanki</a>
+                </div>
                 <h4>Location</h4>
                 <p class="location">Evergreen, CO</p>
                 
