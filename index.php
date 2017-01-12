@@ -36,11 +36,11 @@
                 <a href="#" id="show-more">Show more</a>
                 <a href="#" id="show-less">Show less</a>
             </main>
-
-            <aside>
-                <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="zalaks">
+                            <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="zalaks">
                     <a class="LI-simple-link" href='https://www.linkedin.com/in/zalaks?trk=profile-badge'>Zalak Solanki</a>
                 </div>
+
+            <aside>
                 <h3>LinkedIn Details</h3>
                 
                 <h4>Location</h4>
